@@ -1,0 +1,9 @@
+{
+	"name": "awoyadfsGeekcoder",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c596e06d-3a46-4274-a832-0a181a19cc42",
+		"tenantId": "d6355806-b391-470e-824c-e2feb233d541"
+	}
+}
